@@ -1,7 +1,7 @@
 <div align="center">
    <img src="https://i.pinimg.com/originals/d2/87/a5/d287a58e2b14f4df1fa35d2c49bc4331.gif" alt="Anime Girl GIF" width="80%" style="max-width: 100px;">
 
-  <h1 align="center" class="heading-element" dir="auto">Hi, I'm Evelyn</h1>
+  <h1 align="center" class="heading-element" dir="auto">Hi, im yiive</h1>
 
  <a href="https://github.com/yiivelynn/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=yiivelynn&theme=dracula" alt="trophy" style="max-width: 100%;">
