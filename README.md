@@ -26,9 +26,6 @@
 <a href="https://www.tiktok.com/@yiive30" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="80" height="80" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </a>
-<a href="https://discord.com/users/yiive" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80" height="80" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-</a>
 <a href="https://www.instagram.com/yiive30/" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80" height="80" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </a>
