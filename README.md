@@ -1,10 +1,6 @@
 <div align="center">
    <img src="https://i.pinimg.com/originals/d2/87/a5/d287a58e2b14f4df1fa35d2c49bc4331.gif" alt="Anime Girl GIF" width="80%" style="max-width: 100px;">
-
   <h1 align="center" class="heading-element" dir="auto">Hi, im yiive</h1>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=yiive&theme=dracula" alt="trophy" style="max-width: 100%;">
-</a>
 </div>
 
 ## About Me
