@@ -3,8 +3,8 @@
 
   <h1 align="center" class="heading-element" dir="auto">Hi, im yiive</h1>
 
- <a href="https://github.com/yiivelynn/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=yiivelynn&theme=dracula" alt="trophy" style="max-width: 100%;">
+ <a href="https://github.com/yiive/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=yiive&theme=dracula" alt="trophy" style="max-width: 100%;">
 </a>
 </div>
 
@@ -18,8 +18,8 @@
 ## Stats
 
 <div align="center" dir="auto">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yiivelynn&theme=material-palenight&hide_border=true" alt="" style="max-width: 100%;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiivelynn&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="" style="max-width: 100%;">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yiive&theme=material-palenight&hide_border=true" alt="" style="max-width: 100%;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiive&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="" style="max-width: 100%;">
    
 </div>
 
