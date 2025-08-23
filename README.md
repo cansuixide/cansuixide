@@ -3,7 +3,6 @@
 
   <h1 align="center" class="heading-element" dir="auto">Hi, im yiive</h1>
 
- <a href="https://github.com/yiive/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=yiive&theme=dracula" alt="trophy" style="max-width: 100%;">
 </a>
 </div>
