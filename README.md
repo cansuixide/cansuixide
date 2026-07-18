@@ -1,6 +1,6 @@
 <div align="center">
    <img src="https://i.pinimg.com/originals/d2/87/a5/d287a58e2b14f4df1fa35d2c49bc4331.gif" alt="Anime Girl GIF" width="80%" style="max-width: 100px;">
-  <h1 align="center" class="heading-element" dir="auto">Hi, im yiive</h1>
+  <h1 align="center" class="heading-element" dir="auto">Hi, im yii</h1>
 </div>
 
 ## About Me
@@ -13,8 +13,8 @@
 ## Stats
 
 <div align="center" dir="auto">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yiive&theme=material-palenight&hide_border=true" alt="" style="max-width: 100%;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiive&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="" style="max-width: 100%;">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=4ycnvx&theme=material-palenight&hide_border=true" alt="" style="max-width: 100%;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ycnvx&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="" style="max-width: 100%;">
    
 </div>
 
@@ -23,10 +23,10 @@
 ## Sosial Media
 
 <p dir="auto">
-<a href="https://www.tiktok.com/@yiive30" target="_blank">
+<a href="https://www.tiktok.com/@4ycnvx" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="80" height="80" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </a>
-<a href="https://www.instagram.com/yiive30/" target="_blank">
+<a href="https://www.instagram.com/4ycnvx/" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80" height="80" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </a>
 </p>
