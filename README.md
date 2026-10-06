@@ -8,7 +8,7 @@
 - hello, u can call me ayi
 - student
 - still Learning
-- love Drawing, anime, manga, Game
+- love Drawing, anime, manga, game
 
 ## Stats
 
