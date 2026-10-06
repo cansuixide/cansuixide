@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://giphy.com/gifs/romance-eat-cake-BNYx7EenbSrJ6UkhXt" alt="Anime Girl GIF" width="80%" style="max-width: 100px;">
+   <img src="https://myimgs.org/image/4MZHgNh1" alt="Anime Girl GIF" width="80%" style="max-width: 100px;">
   <h1 align="center" class="heading-element" dir="auto">Hi, im yii</h1>
 </div>
 
