@@ -20,18 +20,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-## Sosial Media
-
-<p dir="auto">
-<a href="https://www.tiktok.com/@4ycnvx" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="80" height="80" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-</a>
-<a href="https://www.instagram.com/4ycnvx/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80" height="80" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-</a>
-</p>
-
-
 
 <!---
 evelynn30/evelynn30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
