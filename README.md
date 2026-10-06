@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://myimgs.org/"><img src="https://myimgs.org/storage/images/54108/giphy.gif" alt="Image hosted on myimgs.org" /></a><a href="https://myimgs.org/tools/png-to-webp">myimgs.org</a>
-   <img src="https://myimgs.org/image/4MZHgNh1" alt="" width="80%" style="max-width: 100px;">
+   <img src="https://myimgs.org/storage/images/54108/giphy.gif" alt="Image hosted on myimgs.org" width="80%" style="max-width: 100px;">
   <h1 align="center" class="heading-element" dir="auto">Hi, im yii</h1>
 </div>
 
