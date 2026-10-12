@@ -1,14 +1,15 @@
 <div align="center">
-   <img src="https://myimgs.org/storage/images/54108/giphy.gif" alt="Image hosted on myimgs.org" width="80%" style="max-width: 100px;">
-  <h1 align="center" class="heading-element" dir="auto">Hi, im yii</h1>
+   <img src="https://myimgs.org/"><img src="https://myimgs.org/storage/images/57394/giphy1.gif" alt="postimage - myimgs.org" width="80%" style="max-width: 100px;">
+  <h1 align="center" class="heading-element" dir="auto">no one is purely good, and no one is purely evil</h1>
 </div>
 
 ## About Me
 
-- hello, u can call me ayi
 - who?
-- still learning
-- love drawing, anime, manga, game
+- #1 apple fan
+- i like to see rain everyday
+- i don't like talk with a lot ppl bcs it makes my brain feel dizzy
+- i wish i could love myself again, so maybe i could love someone someday
 
 ## Stats
 
