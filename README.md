@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://myimgs.org/"><img src="https://myimgs.org/storage/images/57394/giphy1.gif" alt="postimage - myimgs.org" width="80%" style="max-width: 100px;">
+   <img src="https://myimgs.org/storage/images/57394/giphy1.gif" alt="postimage - myimgs.org" width="80%" style="max-width: 100px;">
   <h1 align="center" class="heading-element" dir="auto">no one is purely good, and no one is purely evil</h1>
 </div>
 
