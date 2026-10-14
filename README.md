@@ -15,7 +15,7 @@
 
 <div align="center" dir="auto">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cansuixide&theme=material-palenight&hide_border=true" alt="" style="max-width: 100%;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ycnvx&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="" style="max-width: 100%;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cansuixide&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="" style="max-width: 100%;">
    
 </div>
 
