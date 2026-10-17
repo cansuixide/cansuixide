@@ -6,10 +6,7 @@
 ## About Me
 
 - who?
-- #1 apple fan
-- i like to see rain everyday
-- i don't like talk with a lot ppl bcs it makes my brain feel dizzy
-- i wish i could love myself again, so maybe i could love someone someday
+- can't trust ppl ty
 
 ## Stats
 
