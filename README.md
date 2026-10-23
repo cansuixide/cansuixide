@@ -6,7 +6,7 @@
 ## About Me
 
 - who?
-- can't trust ppl ty
+- a person always eat apple
 
 ## Stats
 
