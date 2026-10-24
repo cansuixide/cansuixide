@@ -7,6 +7,7 @@
 
 - who?
 - a person always eat apple
+- All I know is how to survive **alone**
 
 ## Stats
 
