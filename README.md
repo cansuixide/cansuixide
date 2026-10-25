@@ -19,7 +19,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-
+![Profile views](https://views.igorkowalczyk.dev/api/badge/cansuixide?style=flat)
 <!---
 evelynn30/evelynn30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
